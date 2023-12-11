@@ -128,7 +128,9 @@ a {
 }
 
 .header__sign:hover {
-    background: #fff;
+    background: #ff5b2e;
+    color: #fff;
+    border-color: #ff5b2e;
 }
 
 .section-heading {
